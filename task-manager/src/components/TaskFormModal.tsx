@@ -1,4 +1,4 @@
-import React,{useEffect} from "react";
+import {useEffect} from "react";
 import { Modal, Form, Input, Select  } from "antd";
 import type { Task } from "../types/task";
 
